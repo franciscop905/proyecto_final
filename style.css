@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+.logo{
+    background-color: #350C40;
+    width: 22%;
+    margin: 0%;
+    display: flex;
+    flex-direction: column;
+    
+}
+.menu{
+    background-color: #350C40;
+    width: 22%;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    color:#A192A6 ;
+    font-size: 25px;
+  font-family:'Trebuchet MS';
+  font-weight: 100;
+  text-align: center;
+  letter-spacing: 5px;
+  line-height: 90px;
+ 
+}
+
+footer {
+    background-color: #350C40;
+    height: 100px;
+    display:"flex-col";
+    flex-direction: row;
+    text-align: start;
+    text-indent: 2%;
+
+}
